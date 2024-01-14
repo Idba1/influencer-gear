@@ -86,8 +86,17 @@
 
  .main {
      width: 77%;
+     margin: 0 auto;
  }
 
+ .popular-collection-heading{
+    color: #3A3A3A;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+line-height: 70px;
+text-align: center;
+ }
  .online-shop {
      margin: 150px 0px;
      display: flex;
@@ -131,4 +140,9 @@
      height: 476px;
      width: 329px;
      padding: 17px 17px 14px 15px;
+ }
+ .popular-collection-product-card{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
  }
