@@ -189,4 +189,37 @@
      height: 240px;
      margin: 0 auto;
      background: #0A0826;
+
+ }
+
+ .footer-content h1 {
+     color: #FFF;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 700;
+     text-align: center;
+ }
+
+ .copy-right {
+     color: #D9DBE1;
+     font-family: Manrope;
+     font-size: 14px;
+     font-style: normal;
+     font-weight: 700;
+     text-align: center;
+ }
+
+ .reserved {
+     color: #D9DBE1;
+     font-family: Manrope;
+     font-size: 14px;
+     font-style: normal;
+     font-weight: 700;
+     text-align: center;
+ }
+
+ .footer-icon {
+     display: flex;
+     justify-content: center;
+     gap: 16px
  }
