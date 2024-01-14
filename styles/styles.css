@@ -88,5 +88,7 @@
      width: 77%;
  }
  .online-shop{
-    
+    margin: 150px 0px;
+    display: flex;
+    justify-content: space-around;
  }
