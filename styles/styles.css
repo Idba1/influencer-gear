@@ -71,3 +71,14 @@
  .banner-image {
      background-image: url('../images/Circle\ design.svg');
  }
+.preebook-button{
+    border-radius: 41px;
+background: #E02C6D;
+color: white;
+font-size: 1rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 10px 24px;
+border: none;
+}
