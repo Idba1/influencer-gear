@@ -12,3 +12,17 @@
     margin: 0 auto;
     background-color: white;
 }
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-icon{
+    display: flex;
+    align-items: center;
+    gap: 34px;
+}
+.nav-icon a{
+    text-decoration: none;
+    color: black;
+}
